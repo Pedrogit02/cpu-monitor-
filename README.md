@@ -3,7 +3,7 @@
 # Sobre o projeto
 
 CPU Monitor é um projeto desenvolvido em Python para consultar e analisar
-processos em execução no Linux, permitindo identificar processor com maior
+processos em execução no Linux, permitindo identificar processos com maior
 consumo de CPU.
 O projeto utiliza comandos do sistema operacional por meio do módulo
 "subprocess" do Python
@@ -32,7 +32,7 @@ python3 CPU_monitor.py
 # Objetivo 
 
 Praticar Python aplicado à administração de sistemas Linux, automação de tarefas
-e monitoramento de processos 
+e monitoramento de processos.
 
 # Status 
 
